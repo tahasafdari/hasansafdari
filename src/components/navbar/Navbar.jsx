@@ -6,8 +6,7 @@ const Navbar = () => {
   return (
     <div className="container" id="nav">
       <div className="top__nav">
-        <a href="#contact">Contact</a>
-        <a href="#projects">Projects</a>
+        <a href="#experience">Projects</a>
         <a href="#about">About</a>
         <img src={logo} alt="Logo" />
       </div>
