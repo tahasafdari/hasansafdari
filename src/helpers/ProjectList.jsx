@@ -1,5 +1,9 @@
 import project1 from "../assets/safariwares.jpeg";
-import project2 from "../assets/3.gif";
+import project2 from "../assets/Tweety.gif";
+import project3 from "../assets/sleeptracking.gif";
+import project4 from "../assets/countries.gif";
+import project5 from "../assets/memoryGame.gif";
+import project6 from "../assets/stopwatch.gif";
 
 export const projectList = [
   {
@@ -10,12 +14,12 @@ export const projectList = [
   },
   {
     name: "Tweety Social Media",
-    image: project1,
+    image: project2,
     githubLink: "https://github.com/tahasafdari/tweety-socialMedia",
   },
   {
     name: "Sleep Tracker Android Application",
-    image: project2,
+    image: project3,
     githubLink: "https://github.com/tahasafdari/MySleepTrackerMain/tree/master",
   },
   {
@@ -25,17 +29,17 @@ export const projectList = [
   },
   {
     name: "Countries",
-    image: project1,
+    image: project4,
     githubLink: "https://github.com/tahasafdari/countries",
   },
   {
     name: "Memory Game",
-    image: project1,
+    image: project5,
     githubLink: "https://github.com/tahasafdari/memoryGame",
   },
   {
     name: "Stop Watch",
-    image: project1,
+    image: project6,
     githubLink: "https://github.com/tahasafdari/stopwatch",
   },
   {
