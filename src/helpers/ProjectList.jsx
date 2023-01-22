@@ -6,6 +6,7 @@ export const projectList = [
     name: "Safari Wares",
     image: project1,
     githubLink: "https://github.com/rocksanen/safari",
+    demoLink: "https://safariwares.onrender.com",
   },
   {
     name: "Tweety Social Media",
@@ -40,6 +41,7 @@ export const projectList = [
   {
     name: "Portfolio Website",
     image: project1,
-    githubLink: "https://react-icons.github.io/react-icons",
+    githubLink: "https://github.com/tahasafdari/PortfolioMain",
+    demoLink: "https://hasansafdari.dev",
   },
 ];

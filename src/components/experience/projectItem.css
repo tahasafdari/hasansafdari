@@ -21,7 +21,7 @@
   }
   
   .projectList {
-    width: 50vw;
+    width: 70vw;
     height: auto;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -32,6 +32,13 @@
     float: left;
     padding: 10px;
     padding-right: 5px;
+    font-size: 24px;
+  }
+
+  .demo__icon{
+    float: right;
+    padding: 10px;
+    padding-left: 5px;
     font-size: 24px;
   }
   
