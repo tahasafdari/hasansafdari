@@ -16,6 +16,7 @@ const Experience = () => {
                 name={project.name}
                 image={project.image}
                 githubLink={project.githubLink}
+                demoLink={project.demoLink}
               />
             );
           })}
