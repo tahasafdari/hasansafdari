@@ -1,0 +1,65 @@
+
+header {
+    height: 50vh;
+    padding-top: 7rem;
+    overflow: hidden;
+
+}
+
+
+.header__container{
+    padding-top: 10.35rem;
+    padding-bottom: 10.35rem;
+    height: 100%;
+    position: relative;
+    line-height: 1.1;
+    height: 75vh;
+}
+h2{
+    color: #8892af;
+    font-family: var(--font-family-poppins);
+}
+
+h1{
+    color: var(--color-white);
+    font-family: var(--font-family-poppins);
+
+}
+
+
+
+
+.name{
+    font-size: 5em;
+}
+
+/* Download  */ 
+
+.download{
+    margin-top: 2.5rem;
+    display: flex;
+    gap: 0.5rem;
+}
+
+/* Socials */
+.header__socials{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.3rem;
+    top: 30rem;
+    left: 2rem;
+    position:fixed;
+    bottom: 0.3rem;
+}
+
+.header__socials::after {
+    content: '';
+    width: 1px;
+    height: 35rem;
+    background-color: var(--color-primary);
+}
+
+a:hover{
+    color: white;
+}
