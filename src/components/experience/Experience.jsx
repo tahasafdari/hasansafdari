@@ -3,7 +3,7 @@ import "./experience.css";
 import "./projectItem.css";
 import ProjectItems from "./ProjectItems";
 import { projectList } from "../../helpers/ProjectList";
-
+import { useState } from "react";
 const Experience = () => {
   return (
     <section id="experience" className="projects">
@@ -17,6 +17,7 @@ const Experience = () => {
                 image={project.image}
                 githubLink={project.githubLink}
                 demoLink={project.demoLink}
+                description={project.description}
               />
             );
           })}
