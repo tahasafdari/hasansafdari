@@ -3,20 +3,20 @@ import "./experience.css";
 import "./projectItem.css";
 import ProjectItems from "./ProjectItems";
 import { projectList } from "../../helpers/ProjectList";
-import { useState } from "react";
 const Experience = () => {
   return (
     <section id="experience" className="projects">
       <div className="my__project-text">
         <h2>Projects</h2>
         <div className="projectList">
-          {projectList.map((project) => {
+          {projectList.map((project, index) => {
             return (
               <ProjectItems
+                key={index}
                 name={project.name}
                 image={project.image}
                 githubLink={project.githubLink}
-                demoLink={project.demoLink}
+                demoLink={project.demoLink !== "" ? project.demoLink : null}
                 description={project.description}
               />
             );
@@ -26,5 +26,4 @@ const Experience = () => {
     </section>
   );
 };
-
 export default Experience;
