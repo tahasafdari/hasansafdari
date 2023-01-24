@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/PortfolioMain/static/css/main.0f367472.css",
-    "main.js": "/PortfolioMain/static/js/main.c3eaa6a6.js",
-    "static/media/Tweety.gif": "/PortfolioMain/static/media/Tweety.cc7efee62e9c19d424e8.gif",
-    "static/media/sleeptracking.gif": "/PortfolioMain/static/media/sleeptracking.54e18640e30ea0b5dae2.gif",
-    "static/media/profilepic.jpeg": "/PortfolioMain/static/media/profilepic.c3d16f9a1458f7147a4d.jpeg",
-    "static/media/memoryGame.gif": "/PortfolioMain/static/media/memoryGame.027d682244c30ad87eea.gif",
-    "static/media/simulation.gif": "/PortfolioMain/static/media/simulation.25919d216a3f9b61ca68.gif",
-    "static/media/stopwatch.gif": "/PortfolioMain/static/media/stopwatch.5df6475cc464dd267a71.gif",
-    "static/media/logo.png": "/PortfolioMain/static/media/logo.7fd7d4941b2e56bc9dcc.png",
-    "static/media/countries.gif": "/PortfolioMain/static/media/countries.cfd08b11ad9e25d62ad4.gif",
-    "static/media/portfolio.png": "/PortfolioMain/static/media/portfolio.fd5b24bc9b416dabf45c.png",
-    "static/media/CV.pdf": "/PortfolioMain/static/media/CV.d381162b46be4cbadd19.pdf",
-    "static/media/safariwares.jpeg": "/PortfolioMain/static/media/safariwares.dd1985ba2b0fd2a1080b.jpeg",
-    "index.html": "/PortfolioMain/index.html",
-    "main.0f367472.css.map": "/PortfolioMain/static/css/main.0f367472.css.map",
-    "main.c3eaa6a6.js.map": "/PortfolioMain/static/js/main.c3eaa6a6.js.map"
+    "main.css": "/hasansafdari/static/css/main.0f367472.css",
+    "main.js": "/hasansafdari/static/js/main.adc9ce20.js",
+    "static/media/Tweety.gif": "/hasansafdari/static/media/Tweety.cc7efee62e9c19d424e8.gif",
+    "static/media/sleeptracking.gif": "/hasansafdari/static/media/sleeptracking.54e18640e30ea0b5dae2.gif",
+    "static/media/profilepic.jpeg": "/hasansafdari/static/media/profilepic.c3d16f9a1458f7147a4d.jpeg",
+    "static/media/memoryGame.gif": "/hasansafdari/static/media/memoryGame.027d682244c30ad87eea.gif",
+    "static/media/simulation.gif": "/hasansafdari/static/media/simulation.25919d216a3f9b61ca68.gif",
+    "static/media/stopwatch.gif": "/hasansafdari/static/media/stopwatch.5df6475cc464dd267a71.gif",
+    "static/media/logo.png": "/hasansafdari/static/media/logo.7fd7d4941b2e56bc9dcc.png",
+    "static/media/countries.gif": "/hasansafdari/static/media/countries.cfd08b11ad9e25d62ad4.gif",
+    "static/media/portfolio.png": "/hasansafdari/static/media/portfolio.fd5b24bc9b416dabf45c.png",
+    "static/media/CV.pdf": "/hasansafdari/static/media/CV.d381162b46be4cbadd19.pdf",
+    "static/media/safariwares.jpeg": "/hasansafdari/static/media/safariwares.dd1985ba2b0fd2a1080b.jpeg",
+    "index.html": "/hasansafdari/index.html",
+    "main.0f367472.css.map": "/hasansafdari/static/css/main.0f367472.css.map",
+    "main.adc9ce20.js.map": "/hasansafdari/static/js/main.adc9ce20.js.map"
   },
   "entrypoints": [
     "static/css/main.0f367472.css",
-    "static/js/main.c3eaa6a6.js"
+    "static/js/main.adc9ce20.js"
   ]
 }
